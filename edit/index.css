@@ -1,0 +1,17 @@
+
+#command {
+    margin: 4px;
+    width: calc(100% - 20px);
+}
+
+#output {
+    margin: 4px;
+    width: calc(100% - 20px);
+}
+
+#file {
+    position: relative;
+    margin: 4px;
+    width: calc(100% - 20px);
+    height: calc(100vh - 100px);
+}
